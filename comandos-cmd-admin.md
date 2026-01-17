@@ -192,11 +192,12 @@ Open Disk Management:
 diskmgmt.msc
 
 
-----------------------------------
+-----------------------------------
 
 WARNING
 
 Some actions are irreversible.
+
 
 
 
